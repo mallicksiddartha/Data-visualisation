@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+svg {
+    text-anchor: middle;
+    background-color: #120341a1;
+    vertical-align: top;
+}
+#tooltip {
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
