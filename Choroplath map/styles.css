@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+path{
+    stroke: white;
+    stroke-opacity: 1;
+}
+
+svg {
+    text-anchor: middle;
+    background-color: #372b5ca1;
+    vertical-align: top;
+}
+
+#tooltip {
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
